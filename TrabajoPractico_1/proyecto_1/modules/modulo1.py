@@ -6,4 +6,3 @@ print ("actualizado")
 print ("hola2")
 # status-add-status-commit -m""-push
 # prueba
-#prueba2
